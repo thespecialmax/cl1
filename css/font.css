@@ -1,0 +1,135 @@
+@font-face {
+    font-family: 'TiemposFine';
+    src: local('Tiempos Fine Light'), local('TiemposFine-Light'), url(../fonts/TiemposFine-Light.eot); /* IE9 Compat Modes */
+    src: local('Tiempos Fine Light'), local('TiemposFine-Light'), url(../fonts/TiemposFine-Light.eot) format('embedded-opentype'), /* IE6-IE8 */
+         url(../fonts/TiemposFine-Light.woff) format('woff'), /* Modern Browsers */
+         url(../fonts/TiemposFine-Light.ttf) format('truetype'), /* Safari, Android, iOS */
+         url(../fonts/TiemposFine-Light.svg) format('svg'); /* Legacy iOS */
+    font-display: swap;
+    font-style: normal;
+    font-weight: 400;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'TiemposFine';
+    src: local('Tiempos Fine Light Italic'), local('TiemposFine-LightItalic'), url(../fonts/TiemposFine-LightItalic.eot); /* IE9 Compat Modes */
+    src: local('Tiempos Fine Light Italic'), local('TiemposFine-LightItalic'), url(../fonts/TiemposFine-LightItalic.eot) format('embedded-opentype'), /* IE6-IE8 */
+         url(../fonts/TiemposFine-LightItalic.woff) format('woff'), /* Modern Browsers */
+         url(../fonts/TiemposFine-LightItalic.ttf) format('truetype'), /* Safari, Android, iOS */
+         url(../fonts/TiemposFine-LightItalic.svg) format('svg'); /* Legacy iOS */
+    font-display: swap;
+    font-style: italic;
+    font-weight: 400;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'TiemposFine';
+    src: local('Suisse for NIKE JDI'), local('Suisse-for-NIKE-JDI'), url(../fonts/SuisseIntl-Regular.eot); /* IE9 Compat Modes */
+    src: local('Suisse for NIKE JDI'), local('Suisse-for-NIKE-JDI'), url(../fonts/SuisseIntl-Regular.eot) format('embedded-opentype'), /* IE6-IE8 */
+         url(../fonts/SuisseIntl-Regular.woff) format('woff'), /* Modern Browsers */
+         url(../fonts/SuisseIntl-Regular.ttf) format('truetype'), /* Safari, Android, iOS */
+         url(../fonts/SuisseIntl-Regular.svg) format('svg'); /* Legacy iOS */
+    font-display: swap;
+    font-style: normal;
+    font-weight: 700;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'TiemposFine';
+    src: local('SuisseIntl Regular Italic'), local('SuisseIntl-RegularItalic'), url(../fonts/SuisseIntl-RegularItalic.eot); /* IE9 Compat Modes */
+    src: local('SuisseIntl Regular Italic'), local('SuisseIntl-RegularItalic'), url(../fonts/SuisseIntl-RegularItalic.eot) format('embedded-opentype'), /* IE6-IE8 */
+         url(../fonts/SuisseIntl-RegularItalic.woff) format('woff'), /* Modern Browsers */
+         url(../fonts/SuisseIntl-RegularItalic.ttf) format('truetype'), /* Safari, Android, iOS */
+         url(../fonts/SuisseIntl-RegularItalic.svg) format('svg'); /* Legacy iOS */
+    font-display: swap;
+    font-style: italic;
+    font-weight: 700;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'SuisseIntl';
+    src: local('Suisse for NIKE JDI'), local('Suisse-for-NIKE-JDI'), url(../fonts/SuisseIntl-Regular.eot); /* IE9 Compat Modes */
+    src: local('Suisse for NIKE JDI'), local('Suisse-for-NIKE-JDI'), url(../fonts/SuisseIntl-Regular.eot) format('embedded-opentype'), /* IE6-IE8 */
+         url(../fonts/SuisseIntl-Regular.woff) format('woff'), /* Modern Browsers */
+         url(../fonts/SuisseIntl-Regular.ttf) format('truetype'), /* Safari, Android, iOS */
+         url(../fonts/SuisseIntl-Regular.svg) format('svg'); /* Legacy iOS */
+    font-display: swap;
+    font-style: normal;
+    font-weight: 400;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'SuisseIntl';
+    src: local('SuisseIntl Regular Italic'), local('SuisseIntl-RegularItalic'), url(../fonts/SuisseIntl-RegularItalic.eot); /* IE9 Compat Modes */
+    src: local('SuisseIntl Regular Italic'), local('SuisseIntl-RegularItalic'), url(../fonts/SuisseIntl-RegularItalic.eot) format('embedded-opentype'), /* IE6-IE8 */
+         url(../fonts/SuisseIntl-RegularItalic.woff) format('woff'), /* Modern Browsers */
+         url(../fonts/SuisseIntl-RegularItalic.ttf) format('truetype'), /* Safari, Android, iOS */
+         url(../fonts/SuisseIntl-RegularItalic.svg) format('svg'); /* Legacy iOS */
+    font-display: swap;
+    font-style: italic;
+    font-weight: 400;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'SuisseIntl';
+    src: local('SuisseIntl Medium'), local('SuisseIntl-Medium'), url(../fonts/SuisseIntl-Medium.eot); /* IE9 Compat Modes */
+    src: local('SuisseIntl Medium'), local('SuisseIntl-Medium'), url(../fonts/SuisseIntl-Medium.eot) format('embedded-opentype'), /* IE6-IE8 */
+         url(../fonts/SuisseIntl-Medium.woff) format('woff'), /* Modern Browsers */
+         url(../fonts/SuisseIntl-Medium.ttf) format('truetype'), /* Safari, Android, iOS */
+         url(../fonts/SuisseIntl-Medium.svg) format('svg'); /* Legacy iOS */
+    font-display: swap;
+    font-style: normal;
+    font-weight: 500;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+    font-family: 'SuisseIntl';
+    src: local('SuisseIntl Medium Italic'), local('SuisseIntl-MediumItalic'), url(../fonts/SuisseIntl-MediumItalic.eot); /* IE9 Compat Modes */
+    src: local('SuisseIntl Medium Italic'), local('SuisseIntl-MediumItalic'), url(../fonts/SuisseIntl-MediumItalic.eot) format('embedded-opentype'), /* IE6-IE8 */
+         url(../fonts/SuisseIntl-MediumItalic.woff) format('woff'), /* Modern Browsers */
+         url(../fonts/SuisseIntl-MediumItalic.ttf) format('truetype'), /* Safari, Android, iOS */
+         url(../fonts/SuisseIntl-MediumItalic.svg) format('svg'); /* Legacy iOS */
+    font-display: swap;
+    font-style: italic;
+    font-weight: 500;
+    text-rendering: optimizeLegibility;
+}
+
+
+@font-face {
+    font-family: 'SuisseforNIKEJDI Regular';
+    src: local('Suisse for NIKE JDI'), local('Suisse-for-NIKE-JDI'), url(../fonts/SuisseIntl-Regular.eot); /* IE9 Compat Modes */
+    src: local('Suisse for NIKE JDI'), local('Suisse-for-NIKE-JDI'), url(../fonts/SuisseIntl-Regular.eot) format('embedded-opentype'), /* IE6-IE8 */
+         url(../fonts/SuisseIntl-Regular.woff) format('woff'), /* Modern Browsers */
+         url(../fonts/SuisseIntl-Regular.ttf) format('truetype'), /* Safari, Android, iOS */
+         url(../fonts/SuisseIntl-Regular.svg) format('svg'); /* Legacy iOS */
+    font-display: swap;
+    font-style: normal;
+    font-weight: 400;
+    text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'HelveticaNeue';
+  src: url(../fonts/HelveticaNeue.woff2) format('woff2'), /* IE6-IE8 */
+    url(../fonts/HelveticaNeue.woff) format('woff'), /* Modern Browsers */
+    url(../fonts/HelveticaNeue.ttf) format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'SaolText';
+  src: url(../fonts/SaolText-RegularItalic.eot); /* IE9 Compat Modes */
+  src: url(../fonts/SaolText-RegularItalic.eot'?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url(../fonts/SaolText-RegularItalic.woff) format('woff'), /* Modern Browsers */
+    url(../fonts/SaolText-RegularItalic.ttf) format('truetype'), /* Safari, Android, iOS */
+    font-style: italic;
+    font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
